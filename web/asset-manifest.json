@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/web/static/css/main.1e55755f.css",
+    "main.js": "/web/static/js/main.3edcfc61.js",
+    "static/media/AGENCYB-4fde694c.TTF": "/web/static/media/AGENCYB-4fde694c.8ea49f04bdda6f43b4c3.TTF",
+    "static/media/AGENCYR-d672eb87.TTF": "/web/static/media/AGENCYR-d672eb87.a28a90a7641e61e595d3.TTF",
+    "index.html": "/web/index.html",
+    "main.1e55755f.css.map": "/web/static/css/main.1e55755f.css.map",
+    "main.3edcfc61.js.map": "/web/static/js/main.3edcfc61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e55755f.css",
+    "static/js/main.3edcfc61.js"
+  ]
+}
