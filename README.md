@@ -2,7 +2,7 @@
 ## [FREE] REPORT SYSTEM LIKE NOPIXEL 4.0
 
 # PREVIEW
-
+![bug](https://youtu.be/dvlGfUP5a4A)
 
 
 # NOTED
