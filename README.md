@@ -2,7 +2,7 @@
 ## [FREE] REPORT SYSTEM LIKE NOPIXEL 4.0
 
 # PREVIEW
-[![YOUTUBE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=dvlGfUP5a4A)
+[![YOUTUBE](https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-youtube-social-media-icon-png-image_6315995.png)](https://www.youtube.com/watch?v=dvlGfUP5a4A)
 
 # NOTED
 
