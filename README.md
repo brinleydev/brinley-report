@@ -8,5 +8,5 @@ https://youtu.be/dvlGfUP5a4A
 
 ## THIS REPORT SYSTEM USES DISCORD OR WEBHOOK API
 
-## 💻 Developer
-- [Brinley Developments](https://discord.gg/rMKqYrpn8G)
+## 💻 Discord:
+- [DISCORD](https://discord.gg/rMKqYrpn8G)
