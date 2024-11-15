@@ -2,8 +2,7 @@
 ## [FREE] REPORT SYSTEM LIKE NOPIXEL 4.0
 
 # PREVIEW
-![bug](https://youtu.be/dvlGfUP5a4A)
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=dvlGfUP5a4A)
 
 # NOTED
 
