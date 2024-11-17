@@ -1,4 +1,3 @@
-# brinley-report
 ## [FREE] REPORT SYSTEM LIKE NOPIXEL 4.0
 
 ## 👀 Preview
